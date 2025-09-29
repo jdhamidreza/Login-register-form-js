@@ -1,3 +1,9 @@
+
+
+<img width="2305" height="1615" alt="image" src="https://github.com/user-attachments/assets/cde4209c-6d54-4fc5-ba9d-d738e2cf9383" />
+
+<img width="2282" height="1735" alt="image" src="https://github.com/user-attachments/assets/2e3932a8-7011-46ce-93ea-4b8aef79c0ff" />
+
 Login & Registration UI
 
 Overview
